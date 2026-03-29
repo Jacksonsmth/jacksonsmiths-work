@@ -4,7 +4,7 @@ This repository showcases my Python-based projects focused on petroleum engineer
 
 ---
 
-## 👨‍🎓 About Me
+## About Me
 
 I am a Senior Petroleum Engineering student at The University of Texas at Austin with experience in production operations, data analysis and field operations through my internship this past summer of 2025 with ChampionX/SLB.
 
@@ -18,30 +18,30 @@ I am interested in opportunities in:
 
 ---
 
-## 📂 Project Areas
+## Project Areas
 
-### 🛢️ Formation Evaluation
+### Formation Evaluation
 - Well log data processing and visualization  
 - Data cleaning and restructuring from raw datasets  
 - Subsurface analysis using Python workflows  
 
-### 🧪 Reservoir Engineering
+### Reservoir Engineering
 - Reservoir data analysis and visualization  
 - Dimensionless modeling and engineering calculations  
 - Inflow performance relationships (IPR) and fluid behavior  
 
-### 🌍 Geostatistics
+### Geostatistics
 - Variogram modeling and spatial data analysis  
 - Kriging interpolation techniques  
 - Sequential Gaussian simulation for reservoir properties  
 
-### 🪨 Geomechanics
+### Geomechanics
 - Wellbore stress analysis and failure evaluation  
 - Rock mechanics modeling using engineering equations  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python  
 - Pandas  
@@ -52,7 +52,7 @@ I am interested in opportunities in:
 
 ---
 
-## 🎯 What This Repository Demonstrates
+## What This Repository Demonstrates
 
 - Applying Python to solve real engineering problems  
 - Working with structured and unstructured datasets  
@@ -61,6 +61,6 @@ I am interested in opportunities in:
 
 ---
 
-## 🔗 Contact
+## Contact
 
 LinkedIn: www.linkedin.com/in/jacksnsmith
