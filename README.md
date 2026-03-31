@@ -16,7 +16,9 @@ I am interested in opportunities in:
 - Energy Analytics  
 - Data-driven optimization in oil & gas
 
-- ## Contact
+---
+
+## Contact
 
 - LinkedIn: www.linkedin.com/in/jacksnsmith
 - Mobile: 832-360-3425
