@@ -18,14 +18,6 @@ I am interested in opportunities in:
 
 ---
 
-## Contact
-
-- LinkedIn: www.linkedin.com/in/jacksnsmith
-- Mobile: 832-360-3425
-- E-Mail: jns3627@my.utexas.edu
-
----
-
 ## Project Areas
 
 ### Formation Evaluation
@@ -65,6 +57,15 @@ I am interested in opportunities in:
 - Applying Python to solve real engineering problems  
 - Working with structured and unstructured datasets  
 - Building data-driven workflows for analysis and visualization  
-- Translating theoretical concepts into practical computational models  
+- Translating theoretical concepts into practical computational models
+
+---
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/jacksnsmith
+- Mobile: 832-360-3425
+- E-Mail: jns3627@my.utexas.edu
+
 
 ---
