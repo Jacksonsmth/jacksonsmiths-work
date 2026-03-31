@@ -14,7 +14,13 @@ I am interested in opportunities in:
 - Drilling / Well Completions 
 - Production Engineering  
 - Energy Analytics  
-- Data-driven optimization in oil & gas  
+- Data-driven optimization in oil & gas
+
+- ## Contact
+
+LinkedIn: www.linkedin.com/in/jacksnsmith
+Mobile: 832-360-3425
+E-Mail: jns3627@my.utexas.edu
 
 ---
 
@@ -60,7 +66,3 @@ I am interested in opportunities in:
 - Translating theoretical concepts into practical computational models  
 
 ---
-
-## Contact
-
-LinkedIn: www.linkedin.com/in/jacksnsmith
