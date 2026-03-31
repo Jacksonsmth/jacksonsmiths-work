@@ -18,9 +18,9 @@ I am interested in opportunities in:
 
 - ## Contact
 
-LinkedIn: www.linkedin.com/in/jacksnsmith
-Mobile: 832-360-3425
-E-Mail: jns3627@my.utexas.edu
+- LinkedIn: www.linkedin.com/in/jacksnsmith
+- Mobile: 832-360-3425
+- E-Mail: jns3627@my.utexas.edu
 
 ---
 
